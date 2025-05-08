@@ -1,0 +1,6 @@
+t1,TITLE,election
+t2,DESCRIPTION,Trump
+t3,DESCRIPTION,Clinton
+t4,AFTER,07 May 2025 12:00:00
+t5,AND,t2,t3
+ADD,t1,t4,t5
